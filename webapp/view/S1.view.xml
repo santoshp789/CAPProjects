@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-			<Button text="Hello User with local UI branch " icon="sap-icon://action" tooltip="Share">
+			<Button text="New feature" icon="sap-icon://action" tooltip="Share">
             </Button>
          </content>
     </Page>
